@@ -1,0 +1,40 @@
+body{ background-color:rgb(173, 133, 141) 
+}
+header h1 {font-size: 80px;
+    color: rgb(77, 53, 8);
+    text-align: center;
+    border-style: double;
+    
+}
+nav li{display: inline-block;
+    font-size: 35px;
+    text-align: center;
+    padding: 10px;
+
+}
+h2 {
+    color: rgb(216, 195, 163);
+    font-size: 40px;
+    border-style: dotted;
+    text-align:left;
+    border-color: rgb(65, 33, 52);
+
+}
+a{color: rgb(36, 12, 58);
+    background-color: bisque
+
+}
+p{color: rgb(57, 65, 70);
+    font-size: 25px;
+}
+img{
+    width: 500px;
+    height: 250px;
+    list-style: georgian
+}
+footer
+p{
+color: #000;
+text-align: center;
+border-style: ridge;
+}
